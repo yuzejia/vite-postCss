@@ -1,0 +1,13 @@
+/*!*********************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/.store/css-loader@6.7.3/node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[0].use[1]!./node_modules/.store/postcss-loader@7.0.2/node_modules/postcss-loader/dist/cjs.js!./src/index.css ***!
+  \*********************************************************************************************************************************************************************************************************************/
+:root {
+    --font-size: 12px;
+    --colorRed: red; 
+    --backgroundRed: red;
+}
+
+.rEiO3KcE8oDsr2Dd1aEl {
+    background: red;
+    background: var(--backgroundRed);
+}
